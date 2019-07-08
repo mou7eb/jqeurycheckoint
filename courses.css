@@ -1,0 +1,135 @@
+body{
+    background:linear-gradient(to right, rgba(224, 13, 13, 0.986), rgb(24, 1, 1));
+ }
+ .xx{
+    display: flex;
+    background-color: rgba(255, 0, 0, 0.11);
+}
+.mm a:hover{
+    font-size:  60px;
+  }
+  .mm a{
+    color: white;
+    text-decoration: none;
+     }
+  
+    .nevbar3 h1{
+        font-size: 70px;
+        font-family: inherit;
+        margin-top: 70px;
+    }
+    .nevbar3 a{
+        font-family: inherit;
+        font-size: 35px; 
+        color: rgba(#337a33);
+        text-decoration: none;
+        
+      
+    }
+    .nevbar3 img{
+        width:150px;
+        padding-left: 50px;
+        padding-top: 50px;
+    }
+    .mm{
+        margin-left: 50px;
+        margin-right: 50px;
+       
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 45px;
+        margin-top: 50PX;
+    
+    }
+    .nevbar{
+        display: flex;
+        background:rgba(255, 0, 0, 0);
+        width: max-content;
+        margin-left: auto;
+        margin-right: auto;
+        height: 60px;
+        top: 0;
+   }
+   .kk{
+    width : 99vw;
+    height: 900px;
+    background-image: url("https://cdn-images-1.medium.com/max/1600/0*QUqE4WGF8_cC9bIl.jpg");
+    animation: kk 20s infinite;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 35px;
+}
+.kk h1{
+    font-family: inherit;
+    color: rgb(7, 0, 0);
+    text-align: center;
+    padding-top: 300px;
+font-size: 145px;
+}
+.hsaain h1{
+    font-size: 75px;
+    color: white;
+    padding-bottom:50px;
+    padding-top: 50px;
+}
+.adem img{
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    margin-top: 50px;
+    padding-top: 50px;
+    margin-bottom: 100px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 4px 4px 4px rgb(19, 18, 18);
+}
+.sousse img{
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    padding-top: 50px;
+    margin-bottom: 100px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 4px 4px 4px rgb(19, 18, 18);
+}
+.adem2{
+    font-size: 75px;
+}
+.button1, .button2, .button3{
+    font-size: 
+    35px;
+}
+.adem4{
+    width : max-content ;
+    display: flex;
+    margin-top: 70px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.sayada img:hover{
+    width: 300px;
+    height :300px;
+}
+.sayada img{
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    padding-top: 50px;
+    margin-bottom: 100px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 4px 4px 4px rgb(19, 18, 18);
+
+}
+.sousse img:hover{
+        width: 300px;
+        height :300px;
+}
+.adem5{
+    margin-top:10px;
+}
+.adem img:hover{
+        width: 300px;
+        height :300px;
+
+}
